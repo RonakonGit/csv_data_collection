@@ -1,5 +1,5 @@
 # csv_data_collection
-This is a python tool that takes input into a CSV file and finds an answer for each cell. example if a CSV file  columns are say x = [population of ,what is capital of] and row label are say y = [India, China, USA] then this tool will scrape the answer from internet and place it in particular cell x1y1 = 123crs , x2y1 = New Delhi and so on
+This is a python tool that takes a CSV file and finds an answer for each cell based on the accuracy parameter. example if a CSV file  columns are say x = [population of ,what is capital of] and row label are say y = [India, China, USA] then this tool will scrape the answer from internet and place it in particular cell x1y1 = 123crs , x2y1 = New Delhi and so on
 
 ### exmaple input :
 |             | number of covid cases in  | , population of |   |   |
